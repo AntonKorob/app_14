@@ -1,0 +1,59 @@
+body{
+    background: #e3e8f8 !important;
+    
+}
+
+.conteiner{
+    margin-top: 50px;
+    
+}
+
+form{
+    background: #c7d2f8;
+    border: 2px solid #456cee;
+    border-radius: 10px;
+    padding: 20px 20px;
+    width: 60%;
+}
+#button_form{
+    float: right;
+}
+
+#task{
+    width: 60%;
+    float: left;
+    margin-right: 5%;
+}
+ul{
+    padding: 10px 10px!important;
+    width: 50%;
+}
+
+ul li{
+    list-style: none;
+    padding: 15px;
+    margin-bottom: 10px;
+    background: rgb(243, 234, 234);
+    border: 1px solid silver;
+    border-radius: 5px;
+}
+
+ul li:hover{
+    background: #7f9bf8;
+}
+
+ul li button{
+    
+    border: 0;
+    padding: 5px 15px;
+    color: white;
+    font-style: 13px;
+    background: rgb(228, 91, 91);
+    float: right;
+    border-radius: 5px;
+    
+}
+
+ul li button:hover{
+    background: rgb(163, 89, 89);
+}
